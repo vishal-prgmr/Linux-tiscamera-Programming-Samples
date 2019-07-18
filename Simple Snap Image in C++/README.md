@@ -11,7 +11,7 @@ mkdir build
 cd build 
 cmake ..
 make
-./simple-snapimages
+./simple-snapimage
 ```
 ## Files
 ### main.cpp
